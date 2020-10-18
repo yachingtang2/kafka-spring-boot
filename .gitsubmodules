@@ -1,4 +1,3 @@
 [submodule "library-events-producer"]
 	path = library-events-producer
 	url = git@github.com:yachingtang2/library-events-producer.git
-	ignore = dirty
